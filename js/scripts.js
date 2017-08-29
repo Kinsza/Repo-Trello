@@ -1,5 +1,4 @@
 // scripts.js
-
 //Task - Mod 11.6
 $(function() {
     function randomString() { //funkcja generuje id
